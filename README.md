@@ -1,1 +1,1 @@
-# cpp-libpq-pool
+# pqpool
